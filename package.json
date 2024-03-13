@@ -1,0 +1,21 @@
+{
+  "name": "simple-quiz-app",
+  "version": "1.0.0",
+  "description": "a simple IT quiz that runs in terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.7.0",
+    "gradient": "^0.2.0",
+    "inquirer": "^9.2.16"
+  }
+}
